@@ -40,4 +40,4 @@ Hi I am A.Sailaja <img src="https://raw.githubusercontent.com/sailaja23595/maste
 [3.2]: https://raw.githubusercontent.com/ArigeliSailaja/ArigeliSailaja/master/linkedin-3-16.p
 
 
-[3]: https://www.linkedin.com/in/Arigeli Sailaja/
+[3]: https://www.linkedin.com/in/ArigeliSailaja/
