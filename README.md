@@ -24,6 +24,7 @@ Hi I am A.Sailaja <img src="https://raw.githubusercontent.com/sailaja23595/maste
  ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ### Github Stats
 <a href="https://github.com/sailaja23595">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailaja23595&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
