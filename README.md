@@ -37,7 +37,7 @@ Hi I am A.Sailaja <img src="https://raw.githubusercontent.com/sailaja23595/maste
 </a>
 
 ### Social Media
-[3.2]: https://raw.githubusercontent.com/ArigeliSailaja/ArigeliSailaja/master/linkedin.png
+[3.2]: https://raw.githubusercontent.com/sailaja23595/sailaja23595/master/linkedin.png
 
 
-[3]: https://www.linkedin.com/in/ArigeliSailaja/
+[3]: https://www.linkedin.com/in/arigeli-sailaja/
