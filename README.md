@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi I am A.Sailaja <img src="https://raw.githubusercontent.com/sailaja23595/sailaja23595/master/hello.gif" width="70px">
 
 
-### Contact me <img src="https://raw.githubusercontent.com/sailaja23595/sailaja23595/master/contact.jpg" width="60px">
+### Contact me <img src="https://raw.githubusercontent.com/sailaja23595/sailaja23595/master/contact.jpg" width="40px">
 You can find me on [![LinkedIn][3.2]][3]
 
  ### 🔧 Technologies & Tools
