@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi I am A.Sailaja <img src="https://raw.githubusercontent.com/sailaja23595/sailaja23595/master/hello.gif" width="30px">
+Hi I am A.Sailaja <img src="https://raw.githubusercontent.com/sailaja23595/sailaja23595/master/hello.gif" width="70px" height="70px>
 
 
 ### Contact me <img src="https://raw.githubusercontent.com/sailaja23595/sailaja23595/master/contact.jpg" width="300px">
