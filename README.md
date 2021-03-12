@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi I am A.Sailaja <img src="https://raw.githubusercontent.com/sailaja23595/master/hello.gif" width="30px">
+
+### Github Stats
+<a href="https://github.com/sailaja23595">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailaja23595&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/sailaja23595">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sailaja23595&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
