@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 Hi I am A.Sailaja <img src="https://raw.githubusercontent.com/sailaja23595/master/hello.gif" width="30px">
 
+You can find me on [![LinkedIn][3.2]][3]
+
  ### 🔧 Technologies & Tools
  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
